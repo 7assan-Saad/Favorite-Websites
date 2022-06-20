@@ -1,0 +1,496 @@
+[
+  {
+    "headTitle": "Illustrations",
+    "links": [
+      {
+        "link": "https://www.freepik.com/search?dates=any&format=search&page=1&query=Illustrations&sort=popular&type=vector",
+        "logo": "freepik.png"
+      },
+      {
+        "link": "https://undraw.co/illustrations",
+        "logo": "undraw.png"
+      },
+      {
+        "link": "https://iradesign.io/",
+        "logo": "ira-design.png"
+      },
+      {
+        "link": "https://www.humaaans.com/",
+        "logo": "humaaans.png"
+      },
+      {
+        "link": "https://blush.design/",
+        "logo": "blush.png"
+      },
+      {
+        "link": "https://icons8.com/illustrations",
+        "logo": "icons8.png"
+      },
+      {
+        "link": "https://elements.envato.com/graphics/illustrations",
+        "logo": "envato.png"
+      },
+      {
+        "link": "https://www.uistore.design/categories/illustrations/",
+        "logo": "uistore.png"
+      },
+      {
+        "link": "https://lovepik.com/illustration/",
+        "logo": "lovepik.png"
+      },
+      {
+        "link": "https://pixabay.com/illustrations/",
+        "logo": "pixabay.png"
+      },
+      {
+        "link": "https://freerangestock.com/",
+        "logo": "freerangestock.png"
+      },
+      {
+        "link": "https://www.manypixels.co/gallery",
+        "logo": "manypixels.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "Vectors",
+    "links": [
+      {
+        "link": "https://www.freepik.com/popular-vectors",
+        "logo": "freepik.png"
+      },
+      {
+        "link": "https://www.vexels.com/free-vectors/",
+        "logo": "vexels.png"
+      },
+      {
+        "link": "https://www.vecteezy.com/",
+        "logo": "vecteezy.png"
+      },
+      {
+        "link": "https://lovepik.com/images/illustration-vector.html",
+        "logo": "lovepik.png"
+      },
+      {
+        "link": "https://pixabay.com/vectors/",
+        "logo": "pixabay.png"
+      },
+      {
+        "link": "https://www.vectorstock.com/free-vectors",
+        "logo": "vectorstock.png"
+      },
+      {
+        "link": "https://elements.envato.com/graphics/properties-vector",
+        "logo": "envato.png"
+      },
+      {
+        "link": "https://all-free-download.com/free-vectors/",
+        "logo": "vectors-graphic.png"
+      },
+      {
+        "link": "https://freedesignfile.com/category/free-vector/",
+        "logo": "freedesignfile.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "SVG",
+    "links": [
+      {
+        "link": "https://www.svgrepo.com",
+        "logo": "svgrepo.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "Icons",
+    "links": [
+      {
+        "link": "https://www.freepik.com/search?dates=any&format=search&page=1&sort=popular&type=icon'",
+        "logo": "freepik.png"
+      },
+      {
+        "link": "https://dryicons.com/",
+        "logo": "dryicons.png"
+      },
+      {
+        "link": "https://www.flaticon.com",
+        "logo": "flaticon.png"
+      },
+      {
+        "link": "http://icons8.com/icons#styles",
+        "logo": "icons8.png"
+      },
+      {
+        "link": "https://www.vexels.com/icon/",
+        "logo": "vexels.png"
+      },
+      {
+        "link": "https://lovepik.com/images/illustration-icons.html",
+        "logo": "lovepik.png"
+      },
+      {
+        "link": "https://www.materialpalette.com/icons",
+        "logo": "material-design.png"
+      },
+      {
+        "link": "https://elements.envato.com/graphics/icons",
+        "logo": "envato.png"
+      },
+      {
+        "link": "https://www.uistore.design/categories/icons/",
+        "logo": "uistore.png"
+      },
+      {
+        "link": "https://all-free-download.com/free-icon/",
+        "logo": "free-icon.png"
+      },
+      {
+        "link": "https://freedesignfile.com/category/free-icons/",
+        "logo": "freedesignfile.png"
+      },
+      {
+        "link": "https://www.manypixels.co/free-icons",
+        "logo": "manypixels.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "Icon-Font",
+    "links": [
+      {
+        "link": "https://fontawesome.com",
+        "logo": "fontawesome.png"
+      },
+      {
+        "link": "https://icomoon.io",
+        "logo": "icomoon.png"
+      },
+      {
+        "link": "https://fonts.google.com/icons",
+        "logo": "google-fonts.png"
+      },
+      {
+        "link": "https://ionic.io/ionicons",
+        "logo": "ionicons.png"
+      },
+      {
+        "link": "https://remixicon.com",
+        "logo": "remixicon.png"
+      },
+      {
+        "link": "https://icofont.com",
+        "logo": "icofont.png"
+      },
+      {
+        "link": "https://zurb.com/playground/foundation-icon-fonts-3",
+        "logo": "foundation-icon-fonts.png"
+      }
+
+    ]
+  },
+  {
+    "headTitle": "Logos",
+    "links": [
+      {
+        "link": "https://www.freepik.com/search?dates=any&demographic=any-people&format=search&page=1&query=Logos&sort=popular",
+        "logo": "freepik.png"
+      },
+      {
+        "link": "https://elements.envato.com/graphic-templates/logos",
+        "logo": "envato.png"
+      },
+      {
+        "link": "https://worldvectorlogo.com/",
+        "logo": "worldvectorlogo.png"
+      },
+      {
+        "link": "https://seeklogo.com/",
+        "logo": "seeklogo.png"
+      },
+      {
+        "link": "https://www.vexels.com/logos/",
+        "logo": "vexels.png"
+      },
+      {
+        "link": "https://lovepik.com/images/logos.html",
+        "logo": "lovepik.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "Photos",
+    "links": [
+      {
+        "link": "https://www.freepik.com/search?dates=any&demographic=any-people&format=search&page=1&sort=popular&type=photo",
+        "logo": "freepik.png"
+      },
+      {
+        "link": "https://pxhere.com/",
+        "logo": "pxhere.png"
+      },
+      {
+        "link": "https://www.vecteezy.com/free-photos",
+        "logo": "vecteezy.png"
+      },
+      {
+        "link": "https://lovepik.com/images/photo-so.html",
+        "logo": "lovepik.png"
+      },
+      {
+        "link": "https://www.pexels.com",
+        "logo": "pexels.png"
+      },
+      {
+        "link": "https://www.pinterest.com/",
+        "logo": "pinterest.png"
+      },
+      {
+        "link": "https://unsplash.com",
+        "logo": "unsplash.png"
+      },
+      {
+        "link": "https://pixabay.com/photos/",
+        "logo": "pixabay.png"
+      },
+      {
+        "link": "https://freerangestock.com/",
+        "logo": "freerangestock.png"
+      },
+      {
+        "link": "https://negativespace.co",
+        "logo": "negativespace.png"
+      },
+      {
+        "link": "https://picjumbo.com",
+        "logo": "picjumbo.png"
+      },
+      {
+        "link": "https://wallpapertag.com",
+        "logo": "wallpapertag.png"
+      },
+      {
+        "link": "https://www.flickr.com/",
+        "logo": "flickr.png"
+      },
+      {
+        "link": "https://elements.envato.com/photos",
+        "logo": "envato.png"
+      },
+      {
+        "link": "https://all-free-download.com/free-photos/",
+        "logo": "free-photos.png"
+      },
+      {
+        "link": "https://freedesignfile.com/category/free-photo/",
+        "logo": "freedesignfile.png"
+      },
+      {
+        "link": "https://www.gettyimages.com",
+        "logo": "gettyimages.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "PNG",
+    "links": [
+      {
+        "link": "https://www.pngrepo.com/",
+        "logo": "pngrepo.png"
+      },
+      {
+        "link": "https://www.vexels.com/svg-png/",
+        "logo": "vexels.png"
+      },
+      {
+        "link": "https://pngtree.com/",
+        "logo": "pngtree.png"
+      },
+      {
+        "link": "https://lovepik.com/graphics/png-complex-all-0-png-all-1-0-0-0-0-0-0-all-all.html",
+        "logo": "lovepik.png"
+      },
+      {
+        "link": "https://www.freepngimg.com/",
+        "logo": "freepngimg.png"
+      },
+      {
+        "link": "https://www.hiclipart.com/",
+        "logo": "hiclipart.png"
+      },
+      {
+        "link": "https://freedesignfile.com/?cat=1&s=png",
+        "logo": "freedesignfile.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "PSD",
+    "links": [
+      {
+        "link": "https://www.freepik.com/search?dates=any&format=search&page=1&sort=popular&type=psd",
+        "logo": "freepik.png"
+      },
+      {
+        "link": "https://downloadpsd.cc",
+        "logo": "downloadpsd.png"
+      },
+      {
+        "link": "https://lovepik.com/template-0-0-complex-all-0-psd-all-1-0-0-0-0-0-0-all-all.html",
+        "logo": "lovepik.png"
+      },
+      {
+        "link": "http://psdblast.com/category/psd",
+        "logo": "psdblast.png"
+      },
+      {
+        "link": "https://all-free-download.com/free-psd/",
+        "logo": "photoshop-psd.png"
+      },
+      {
+        "link": "https://freedesignfile.com/category/free-psd/",
+        "logo": "freedesignfile.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "Videos",
+    "links": [
+      {
+        "link": "https://www.vecteezy.com/free-videos",
+        "logo": "vecteezy.png"
+      },
+      {
+        "link": "https://www.pexels.com/videos/",
+        "logo": "pexels.png"
+      },
+      {
+        "link": "https://lovepik.com/video/",
+        "logo": "lovepik.png"
+      },
+      {
+        "link": "https://pixabay.com/videos/",
+        "logo": "pixabay.png"
+      },
+      {
+        "link": "https://www.videvo.net/",
+        "logo": "videvo.png"
+      },
+      {
+        "link": "https://cutestockfootage.com/",
+        "logo": "cutestockfootage.png"
+      },
+      {
+        "link": "https://mixkit.co/",
+        "logo": "mixkit.png"
+      },
+      {
+        "link": "https://coverr.co/",
+        "logo": "coverr.png"
+      },
+      {
+        "link": "https://www.motionplaces.com/",
+        "logo": "motionplaces.png"
+      },
+      {
+        "link": "https://www.videezy.com/",
+        "logo": "videezy.png"
+      },
+      {
+        "link": "https://www.monzoom.com/",
+        "logo": "monzoom.png"
+      },
+      {
+        "link": "https://all-free-download.com/free-footage/",
+        "logo": "footage-video.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "Colors",
+    "links": [
+      {
+        "link": "https://flatuicolors.com/",
+        "logo": "flatuicolors.png"
+      },
+      {
+        "link": "https://colorhunt.co/",
+        "logo": "colorhunt.png"
+      },
+      {
+        "link": "https://pigment.shapefactory.co/",
+        "logo": "pigment.png"
+      },
+      {
+        "link": "https://webgradients.com/",
+        "logo": "webgradients.png"
+      },
+      {
+        "link": "https://colorleap.app/home",
+        "logo": "colorleap.png"
+      },
+      {
+        "link": "https://mycolor.space/",
+        "logo": "mycolor-space.png"
+      },
+      {
+        "link": "https://www.materialpalette.com/",
+        "logo": "material-design.png"
+      },
+      {
+        "link": "http://www.colorlisa.com/",
+        "logo": "colorlisa.png"
+      },
+      {
+        "link": "https://javier.xyz/cohesive-colors/",
+        "logo": "cohesive.png"
+      },
+      {
+        "link": "https://coolors.co/",
+        "logo": "coolors.png"
+      },
+      {
+        "link": "https://color.adobe.com/create/color-wheel",
+        "logo": "adobe-color.png"
+      },
+      {
+        "link": "https://brandcolors.net/",
+        "logo": "brandcolors.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "Templates",
+    "links": [
+      {
+        "link": "https://elements.envato.com/graphic-templates/ux-and-ui-kits",
+        "logo": "envato.png"
+      },
+      {
+        "link": "https://www.graphberry.com/category/themes",
+        "logo": "graphberry.png"
+      },
+      {
+        "link": "https://www.uistore.design/categories/landing-pages/",
+        "logo": "uistore.png"
+      },
+      {
+        "link": "https://collectui.com/",
+        "logo": "collectui.png"
+      },
+      {
+        "link": "https://csslayout.io/",
+        "logo": "csslayout.png"
+      }
+    ]
+  },
+  {
+    "headTitle": "Fonts",
+    "links": [
+      {
+        "link": "https://fonts.google.com",
+        "logo": "google-fonts.png"
+      }
+    ]
+  }
+]
